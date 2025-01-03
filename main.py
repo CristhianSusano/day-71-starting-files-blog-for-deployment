@@ -25,7 +25,7 @@ python -m pip install -r requirements.txt
 On MacOS type:
 pip3 install -r requirements.txt
 
-This will install the packages from the requirements.txt for this project.
+This will install the packages from the requirements.txt for this project.s
 '''
 
 app = Flask(__name__)
